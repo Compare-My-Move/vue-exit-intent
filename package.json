@@ -59,7 +59,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Compare-My-Move/vue-exit-intent.git"
+    "url": "git+https://github.com/Compare-My-Move/vue-exit-intent.git#change-how-mouse-exit-works"
   },
   "keywords": [
     "exit",
