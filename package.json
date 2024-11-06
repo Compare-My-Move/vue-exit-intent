@@ -1,7 +1,7 @@
 {
   "name": "vue-exit-intent",
   "version": "2.2.0",
-  "description": "Exit Intent Composable. Show your content when a user is leaving, or another threshold reached.",
+  "description": "CMM Version - Exit Intent Composable. Show your content when a user is leaving, or another threshold reached.",
   "author": "nickap <dev.texng@simplelogin.com>",
   "license": "MIT",
   "files": [
@@ -59,7 +59,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nickap/vue-exit-intent.git"
+    "url": "git+https://github.com/Compare-My-Move/vue-exit-intent.git"
   },
   "keywords": [
     "exit",
@@ -76,7 +76,7 @@
     "vue3"
   ],
   "bugs": {
-    "url": "https://github.com/nickap/vue-exit-intent/issues"
+    "url": "https://github.com/Compare-My-Move/vue-exit-intent/issues"
   },
-  "homepage": "https://github.com/nickap/vue-exit-intent#readme"
+  "homepage": "https://github.com/Compare-My-Move/vue-exit-intent#readme"
 }
